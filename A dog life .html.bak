@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html   lang="en"> 
+<head>
+      <meta charset="UTF-8">
+	  <meta name="viewport" content=width=device-width,initial-scale=1.0">  
+	  <title> A Dog's life</title>
+	  
+	  </head>
+<body>
+  <nav>
+       <a href="https://www.youtube.com/watch?v=77zB4YL-_rk"  target="_blank">Youtube</a>
+	   <a href="https://learnenglishkids.britishcouncil.org/short-stories/dogs-life"target="_blank">Website</a>
+	   <a href="https://github.com/henriquealvesf/HTML-and-CSS-Projects1"target="_blank">Github</a>
+	   
+  </nav>
+  
+  <h1> Dog</h1>
+  
+   <video width="560" poster="https://www.youtube.com/watch?v=dB9smmbhlC8"  controls autoplay loop>
+   </video>
+  
+  
+  
+  
+  
+  
+  
+  
+        <h1>Dog days </h1>
+		<iframe> width="560" height="315"  src="https://www.youtube.com/watch?v=dB9smmbhlC8"   frameborder="0"   allow="accelerometer;autoplay; 
+		encrypted-media; gyroscope; picture-in-picture"
+		allowfullscreen></iframe>
+		
+  
+  
+  
+  
+  </body>
+  </html>
+	  
+	 
+	  
